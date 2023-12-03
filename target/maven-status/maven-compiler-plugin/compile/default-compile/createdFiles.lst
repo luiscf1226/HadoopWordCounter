@@ -1,0 +1,3 @@
+org/wordcounter/Runner.class
+org/wordcounter/Mapper.class
+org/wordcounter/Reducer.class
